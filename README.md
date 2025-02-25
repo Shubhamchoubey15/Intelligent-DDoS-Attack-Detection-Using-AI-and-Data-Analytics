@@ -7,7 +7,7 @@ This project focuses on detecting **DDoS (Distributed Denial of Service) attacks
 
 ### **📂 Files in This Repository**  
 ✔ **`DDoS_dataset.csv`** → Open-source dataset used for training.  
-✔ **`attack_check.py`** → Python script for data preprocessing, model loading, and attack detection.  
+✔ **`main.py`** → Python script for data preprocessing, model loading, and attack detection.  
 ✔ **`scaler.pkl`** → Pre-trained scaler for feature normalization.  
 ✔ **`label_encoders.pkl`** → Label encoders for categorical feature transformation.  
 ✔ **`ddos_model.pkl`** → Pre-trained ML model for attack classification.  
